@@ -1,0 +1,4 @@
+setopt correct			# Auto correct mistakes
+setopt histignorealldups	# If a new command is duplicate, remove the older one
+setopt autocd			# If only directory path is entered, cd there
+setopt histignorespace		# Don't save commands that start with space
